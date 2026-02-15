@@ -1,0 +1,5 @@
+[main]
+input = './examples/input'
+# output is optional; if omitted 'output' folder will be created next to app
+output = './examples/output'
+filename_mask = ['level','trade']
